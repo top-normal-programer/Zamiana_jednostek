@@ -1,0 +1,45 @@
+Aplikacja "ZAMIANA" to intuicyjne narzędzie napisane w języku Java, które umożliwia szybką i łatwą konwersję jednostek miar w kategoriach długości, wagi, czasu oraz powierzchni. Aplikacja oferuje użytkownikowi prosty interfejs graficzny, który umożliwia wybór jednostek źródłowych i docelowych oraz dokonywanie precyzyjnych przeliczeń.
+
+Funkcje Aplikacji:
+
+Zamiana Jednostek Długości:
+
+Milimetry (mm)
+Centymetry (cm)
+Metry (m)
+Kilometry (km)
+
+Zamiana Jednostek Wagi:
+
+Miligramy (mg)
+Gramy (g)
+Kilogramy (kg)
+Ton-y (t)
+
+Zamiana Jednostek Czasu:
+
+Milisekundy (ms)
+Sekundy (s)
+Minuty (min)
+Godziny (h)
+Dni (d)
+Tygodnie (wk)
+Miesiące (mo)
+Lata (yr)
+
+Zamiana Jednostek Powierzchni:
+
+Milimetry kwadratowe (mm²)
+Centymetry kwadratowe (cm²)
+Metry kwadratowe (m²)
+Kilometry kwadratowe (km²)
+Hektary (ha)
+
+Dodatkowe Funkcje:
+
+Możliwość wyboru jednostek źródłowych i docelowych.
+Automatyczne wykrywanie błędnych konwersji między jednostkami różnych kategorii.
+Wyświetlanie komunikatu błędu w przypadku niespójnych jednostek (np. cm na minuty).
+Intuicyjny interfejs użytkownika z polami do wprowadzania danych i przyciskiem do dokonywania przeliczeń.
+Obsługa błędów i prezentacja wyników w czytelny sposób.
+Aplikacja "ZAMIANA" zapewnia użytkownikowi efektywny sposób na dokonywanie konwersji między różnymi jednostkami miar, eliminując przy tym ryzyko popełnienia błędów w wyniku niespójności jednostek.
